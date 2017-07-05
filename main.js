@@ -8,8 +8,8 @@ let givenName;
 
 // 2.
 // What is `givenName` set to right now?
-givenName = "Tim";
-// A: givenName is set to "Tim"
+givenName = 'Tim';
+// A: givenName is set to 'Tim'
 
 
 // 3.
@@ -50,8 +50,8 @@ let timAge = today - born;
 // 8.
 // Adjust this code. Store some information in the following variables.
 // A:
-let yourName = "Shireen";
-let instructorName = "Mike";
+let yourName = 'Shireen';
+let instructorName = 'Mike';
 
 
 // 9.
@@ -184,7 +184,7 @@ if(-5 && 5){
 } else {
 	console.log("False!");
 }
-// A:
+// A:console.log("True!");
 
 
 // 26.
